@@ -8,7 +8,7 @@ if __name__ == '__main__':
         author='Zachary Kazanski',
         author_email='kazanski.zachary@gmail.com',
         description='Framework for quickly buidling REST-ful APIs in Flask.',
-        url="https://github.com/kazanz/powernap",
+        url="https://github.com/mvellasco/powernap",
         packages=[
             "powernap",
             "powernap.architect",
