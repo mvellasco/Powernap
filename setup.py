@@ -27,6 +27,7 @@ if __name__ == '__main__':
             'Flask-GraphQL>=1.4.1',
             'graphene==2.1.2',
             'graphene-sqlalchemy==2.0.0',
+            'pytest==3.6.3',
         ],
         classifiers=[
             'Programming Language :: Python',
