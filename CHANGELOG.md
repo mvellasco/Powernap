@@ -1,3 +1,7 @@
+05-11-19 2.2.2:
+
+Add tests to the package
+
 10-23-18 2.2.2:
 
 Add an ugly request rate limiting hack for admins to prevent crashing.
@@ -97,7 +101,7 @@ Add accepted 202 code to `http_codes`.
 
 3-17-17 v1.0.4:
 
-Fix missing jinja_loader on Architect 
+Fix missing jinja_loader on Architect
 
 
 2-27-17 v1.0.3:
